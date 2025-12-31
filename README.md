@@ -1,4 +1,4 @@
-# BP-OSD with slidingwindow
+# BP-OSD with sliding window
 
 [1]: https://github.com/quantumgizmos/bp_osd
 [2]: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.012453
