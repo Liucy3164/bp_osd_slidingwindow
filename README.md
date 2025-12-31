@@ -8,4 +8,4 @@ BP-OSD decoding with a sliding window for QLDPC codes, modified from the open-so
 
 I implemented the sliding-window code and provide an example for the [[625, 25, 8]] LDPC code, showing lifetime versus error rate.
 
-To run it, replace css_decode_sim.py in [[1]] with my modified version, and then run my new sliding-window example script to evaluate the performance.
+To run it, replace css_decode_sim.py in [[1]] with my modified version, and then run my new sliding-window example script to evaluate the performance. One could add more data points for further better results.
