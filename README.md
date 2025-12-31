@@ -1,2 +1,2 @@
-# Slidingwindow-
+# BP-OSD with Slidingwindow-
 BP-OSD decoding with sliding window for QLDPC codes
